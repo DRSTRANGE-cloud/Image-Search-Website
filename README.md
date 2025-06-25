@@ -14,7 +14,7 @@ real-time image results from an external API (e.g., Unsplash or Pexels) and disp
 - JavaScript (Fetch API)
 - External Image API (e.g., Unsplash or Pexels)
 
-## 🚀 Getting Started
+🚀 Getting Started
 
 1. Clone the repository:
    ```bash
